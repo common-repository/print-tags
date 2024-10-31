@@ -1,0 +1,14 @@
+.print-tag-section {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.print-tag-pages {
+    font-size: 16px;
+    padding: 4px;
+    margin: 2px;
+}
+
+#number_of_sections {
+    text-align: center;
+}
